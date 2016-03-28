@@ -1,4 +1,4 @@
-img{
+/*img{
   margin-left: 550px;
   display: block;
 }
@@ -11,4 +11,33 @@ p{
   margin-left: 520px;
 
 }
+*/
+body{
 
+  background-color: black;
+}
+
+div{
+  margin-left: 500px;
+}
+
+h1{
+  margin-left: 200px;
+  font-family: monospace;
+  color: white;
+}
+
+button{
+  color: pink;
+}
+
+img{
+  margin-left: 190px;
+}
+
+.myplaylist{
+  color: blue;
+  margin-left: 450px;
+  padding-top: 20px;
+  font-family: monospace;
+}
